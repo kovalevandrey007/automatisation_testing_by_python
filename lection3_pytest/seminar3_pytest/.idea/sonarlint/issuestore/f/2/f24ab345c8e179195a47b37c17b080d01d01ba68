@@ -1,0 +1,7 @@
+
+jpython:S1192("FDefine a constant instead of duplicating this literal "ls {}" 7 times.(©ÛÇØûÿÿÿÿ8ßöºİÃ1
+ppython:S1192'"QDefine a constant instead of duplicating this literal "Everything is Ok" 7 times.( ˜·‰8àöºİÃ1
+Ipython:S1481"%Remove the unused local variable "i".(† ¨Øûÿÿÿÿ8·å¥ŞÃ1
+@python:S3457="Remove this unused argument.(æ•­Ûüÿÿÿÿ8àöºİÃ1
+@python:S3457>"Remove this unused argument.(Æ¬†Üûÿÿÿÿ8àöºİÃ1
+Jpython:S5806Q"+Rename this variable; it shadows a builtin.(Íğ…”8àöºİÃ1
