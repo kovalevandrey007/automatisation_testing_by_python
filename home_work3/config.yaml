@@ -1,0 +1,4 @@
+folder_in: /home/andy/folder_in
+folder_out: /home/andy/folder_out
+folder_ex: /home/andy/folder_ex
+type: 7z t
