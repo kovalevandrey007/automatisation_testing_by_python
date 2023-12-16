@@ -1,0 +1,6 @@
+host: 0.0.0.0
+login_by_user2: user2
+passwd: "11"
+file1: p7zip-full.deb
+host_path: /home/andy/Загрузки/
+guest_path: /home/user2/
