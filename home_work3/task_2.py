@@ -2,7 +2,7 @@ from test_seminar2 import check_command, get_hash
 import pytest
 import yaml
 
-with open('config.yaml', encoding = 'utf-8') as f:
+with open('config.yaml', 'r', encoding = 'utf-8') as f:
     data = yaml.safe_load(f)
 
 @pytest.mark.usefixtures('make_folder', 'make_files', 'del_folder','add_data_in_txt')
